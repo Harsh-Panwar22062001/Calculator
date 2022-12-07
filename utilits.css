@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+    
+}
+.bg-red{
+    background-color: yellow;
+}
+.mx-auto{
+    margin: auto; 
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row{
+    margin:8px 0;
+}
+.container{
+    border: 7px solid blue;
+    width: 300px;
+}
+
